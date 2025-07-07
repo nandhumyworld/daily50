@@ -8,3 +8,13 @@ message = f"Hello {name}! You're {age} years old and love the color {favorite_co
 
 # Print the message
 print("\n" + message)
+
+
+name = "Nandhu"
+print(f"Hello {name}")     # f-string
+
+#print(r"C:\Users\Nandhu")   # raw string
+
+print(b"hello")             # bytes
+
+print(u"hello")             # unicode (Python 2/3)
